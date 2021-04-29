@@ -21,4 +21,5 @@ Thực chất dùng mảng 2 chiều và sử dụng linked_list cùng với l�
 
 Game có tham khảo code tại địa chỉ github: https://github.com/tqlong/advprogram/tree/master/lec12-snake 
 
-Link video hướng dẫn cách cài đặt: 
+Link video hướng dẫn cách cài đặt: https://drive.google.com/drive/u/0/folders/1IhgexuUUYxXpZbCnc_buxDdlB7iC8I6_
+
