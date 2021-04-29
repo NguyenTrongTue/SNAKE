@@ -20,3 +20,5 @@ Sử dụng thư viện đồ họa SDL, codeblock và game được lập trìn
 Thực chất dùng mảng 2 chiều và sử dụng linked_list cùng với lớp class.
 
 Game có tham khảo code tại địa chỉ github: https://github.com/tqlong/advprogram/tree/master/lec12-snake 
+
+Link video hướng dẫn cách cài đặt: 
